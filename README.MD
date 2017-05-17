@@ -1,3 +1,3 @@
 # Python Data Analysis
 
-# Tweeter Python
+# Twitter Python Data Streamer and Analysis

@@ -3,3 +3,12 @@
 #Python -m venv PATH OF PROJECT
 
 #Create setup.py and run Python setup.py install
+
+# pip freeze > requirements.txt
+
+
+
+encoding error on windows cmd
+
+chcp 65001
+set PYTHONIOENCODING=utf-8
